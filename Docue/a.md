@@ -71,3 +71,7 @@ Open Source has ultimate value arch.
 Open Source has ultimate benefit.
 
 Open Source has ultimate benefit arch.
+
+Open Source has ultimate cross.
+
+Open Source has ultimate cross arch.
